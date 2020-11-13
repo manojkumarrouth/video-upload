@@ -15,11 +15,3 @@ $ npm start
 $ cd ../client
 $ npm start
 ```
-
-
-#### For tutorial, watch my Youtube Video:
-[Link](https://youtu.be/PS4C2snld1s)
-
-
-### If you found this project helpful, 
-Don't forget to `Star` and `Fork` this project.
